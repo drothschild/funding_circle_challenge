@@ -18,7 +18,7 @@ This runs both driver code itself and the tests. (They are enclosed together for
 ### Notes
 
 
-* Time Complexity: Ø(n)^2
+* Time Complexity: Θ(n)^2
 
 * Speed: ~15ms
 
