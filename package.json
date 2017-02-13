@@ -1,0 +1,13 @@
+{
+  "name": "fundingCircleCodeChallenge",
+  "description": "Funding Circle Code Challenge- write ",
+  "main": "prime.js",
+  "scripts": {
+    "test": "mocha prime.js",
+    "start": "mocha prime.js"
+  },
+
+  "dependencies": {
+    "mocha": "~2.3.4"
+  }
+}
